@@ -10,4 +10,4 @@ Thank you for your attention and support.
 | Download | Link | Password |
 | :--- | :--- | :--- |
 | Baidu Netdisk | [KAIST results](https://pan.baidu.com/s/1tlcORYmVrgX3iHLPcGOdSg) | ic3f |
-| Google Drive | [KAIST results]([https://drive.google.com/drive/folders/xxxxxx](https://drive.google.com/file/d/1U1OhzahJiyKACGvJvZbmRqMAZwU7xvCM/view?usp=drive_link)) | — |
+| Google Drive | [KAIST results](https://drive.google.com/file/d/1U1OhzahJiyKACGvJvZbmRqMAZwU7xvCM/view?usp=drive_link) | — |
