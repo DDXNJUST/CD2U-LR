@@ -9,5 +9,5 @@ Thank you for your attention and support.
 ## KAIST Results
 | Download | Link | Password |
 | :--- | :--- | :--- |
-| Baidu Netdisk | [KAIST results](https://pan.baidu.com/s/1tlcORYmVrgX3iHLPcGOdSg) | ic3f |
+| Baidu Netdisk | [KAIST results](https://pan.baidu.com/s/1tlcORYmVrgX3iHLPcGOdSg) | `ic3f` |
 | Google Drive | [KAIST results](https://drive.google.com/file/d/1U1OhzahJiyKACGvJvZbmRqMAZwU7xvCM/view?usp=drive_link) | — |
