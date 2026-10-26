@@ -11,3 +11,7 @@ Thank you for your attention and support.
 | :--- | :--- | :--- |
 | Baidu Netdisk | [KAIST results](https://pan.baidu.com/s/1tlcORYmVrgX3iHLPcGOdSg) | `ic3f` |
 | Google Drive | [KAIST results](https://drive.google.com/file/d/1U1OhzahJiyKACGvJvZbmRqMAZwU7xvCM/view?usp=drive_link) | — |
+
+## Evaluation Code
+The code for computing the evaluation metrics is included in this repository.
+To ensure a fair comparison, all methods are evaluated using the same evaluation protocol and metrics.
